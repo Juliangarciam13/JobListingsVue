@@ -167,6 +167,7 @@ export default {
   display: flex;
   align-items: flex-start;
   margin-top: 20px;
+  border-radius: 5px;
 }
 
 .job-card:hover {
